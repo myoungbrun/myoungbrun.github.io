@@ -10,4 +10,4 @@ redirect_from:
 
 I am a PhD student at [Paris School of Economics](https://www.parisschoolofeconomics.eu), [CES](http://centredeconomiesorbonne.univ-paris1.fr/) (Sorbonne Economics Center) and CIRED (International Centre for Research on Environment and Development).
 
-My main research field is Environmental and Climate Change economics.  
+My main research field is Environmental and Climate Change Economics.  
