@@ -16,4 +16,4 @@ My main research field is Environmental and Climate Change Economics.
 Contact : marie.youngbrun@psemail.eu
 
 
-![Stripes](image_stripes.png)
+![](image_stripes.png)
