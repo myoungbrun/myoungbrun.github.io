@@ -13,7 +13,7 @@ I am a PhD candidate at the [Paris School of Economics](https://www.parisschoolo
 My main research field is Environmental and Climate Change Economics.
 
 
-Contact : marie.youngbrun@psemail.eu
+Contact : marie.youngbrun [at] psemail.eu
 
 
 ![](images/image_stripes.png)
