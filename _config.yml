@@ -83,8 +83,8 @@ author:
   name             : "Marie Young Brun"
   avatar           : "legoodportrait.PNG"
   bio              : "PhD candidate"
-  location         : "Paris"
-  employer         :
+  location         : #"Paris"
+  employer         : "PSE/Paris 1"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "marie.youngbrun@psemail.eu"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "myoungbrun"
   vine             :
   weibo            :
   xing             :
