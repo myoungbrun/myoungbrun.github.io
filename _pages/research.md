@@ -13,4 +13,4 @@ _Abstract_ : This paper investigates how voting over a carbon tax is impacted by
 
 ### Intra-regional inequality and climate policy in integrated assessment models
 
-* Distributional impacts of climate change and mitigation policies depending of inequalities in income composition (capital or labour income), and persistency effects, joint with Simon Feindt
+* Distributional impacts of climate change and mitigation policies depending on inequalities in income composition (capital or labour income), and persistency effects, joint with Simon Feindt
