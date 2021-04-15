@@ -9,3 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV [here](files/CV_Young_Brun_English.pdf).
+
