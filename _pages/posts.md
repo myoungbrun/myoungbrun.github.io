@@ -14,7 +14,7 @@ Workflow and tools
 * How this website is made 
 
 R 
-* World and regional maps with countries with Rworldmap
+* World and regional country maps with Rworldmap
 * Relative paths in R for collaboration with here: the end of "setwd()"
 
 
