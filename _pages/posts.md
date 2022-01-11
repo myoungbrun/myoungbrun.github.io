@@ -12,6 +12,7 @@ Workflow and tools
 * Bibliography with Zotero and saving articles from the browser
 * Writing What You See Is What You Get (i.e. easier) LateX with LyX
 * Making graphs with mathcha.io (exportable to tikz)
+* Extracting tables from pdf with tabula
 
 
 R 
