@@ -7,7 +7,8 @@ author_profile: true
 
 ## Working papers
 
-### Climate change damages on labor and capital, inequality, and the social cost of carbon, with Simon Feindt
+### Climate change damages on labor and capital, inequality, and the social cost of carbon
+_with Simon Feindt_
 
 _Abstract_ : Climate change is poised to generate economic damages through many channels, in particular through shocks to the factors of production. We modify an integrated assessment model with sub-regional inequality and introduce direct impacts on capital and productive labor stocks, resulting in endogenously persistent damages. We model and calibrate the joint distribution of labor and capital income, to capture the role played by income composition heterogeneity in within-region inequality. The income-elasticity of damages has a stronger impact than their persistence on future inequality, consumption, and optimal policy. When taking the non-proportionality of damages into account, inequality increases with labor productivity and capital damages, but labor impacts tend to have a stronger effect. In the most affected regions, these factor-specific damages can lead to dramatic consumption losses at the bottom of the distribution, resulting in a large increase in the social cost of carbon.
 
