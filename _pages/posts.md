@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Posts"
+title: "Tips and tricks"
 permalink: /posts/
 author_profile: true
 ---
