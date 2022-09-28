@@ -8,11 +8,12 @@ author_profile: true
 ## Working papers
 
 ### Political support for carbon taxation: a voting model with vertical and horizontal inequality
-####**Job Market paper** (Draft available upon request)
+#### **Job Market paper** (Draft available upon request)
 
 
 _Abstract_ :
 Carbon taxation is a flagship climate policy aimed at reducing greenhouse gas emissions efficiently. Yet, it fails to garner sufficient political support in many countries. This paper investigates the role of urban-rural inequalities in this lack of domestic support. I develop a model of majority voting over a carbon tax at a national level, with both income and urban-rural heterogeneity. Rural households are constrained to consume more necessary energy goods than urban households, which I capture with heterogeneous Stone-Geary utility. I characterize the conditions for the existence of a majority voting equilibrium and perform a calibration of the model using budget survey data for twenty European countries.
+
 I find that the majority voting tax may be at a higher rate than the optimal carbon tax. However, the calibration suggests that the optimal rate tends to exceed the majority voting rate by a few percent. This result holds even if the households and the social planner share the same level of environmental preference. I demonstrate that political support among rural households is always below that of urban households. The numerical exercise reveals a gap between 15 and 45 %, at the median income. Carbon taxation generates revenues that can be redistributed to households. The calibration suggests that lump-sum or means-tested transfers render the tax and rebate scheme progressive, but have only a limited effect on political support.
 
 
