@@ -8,7 +8,7 @@ author_profile: true
 
 ## Job Market paper
 
-[Political support for carbon taxation: a voting model with vertical and horizontal inequality](https://www.parisschoolofeconomics.eu/docs/youngbrun-marie/young-brun-marie--political-support-for-carbon-taxation--a-voting-model-with-income-and-urban-rural-inequality.pdf)
+[Political support for carbon taxation: a voting model with vertical and horizontal inequality](https://myoungbrun.github.io/files/JMP_YoungBrun.pdf)
 
 _Abstract_ :
 Carbon taxation is a flagship climate policy aimed at reducing greenhouse gas emissions efficiently. Yet, it fails to garner sufficient political support in many countries. This paper investigates the role of urban-rural inequalities in this lack of domestic support. I develop a model of majority voting over a carbon tax at a national level, with both income and urban-rural heterogeneity. Rural households are constrained to consume more necessary energy goods than urban households, which I capture with heterogeneous Stone-Geary utility. I characterize the conditions for the existence of a majority voting equilibrium and perform a calibration of the model using budget survey data for twenty European countries.
@@ -21,3 +21,11 @@ I find that the majority voting tax may be at a higher rate than the optimal car
 #### _with Simon Feindt_ (Draft available upon request)
 
 _Abstract_ : Climate change is poised to generate economic damages through many channels, in particular through shocks to the factors of production. We use an integrated assessment model with sub-regional inequality and introduce direct impacts on capital and productive labor stocks, resulting in endogenously persistent damages. We model and calibrate the joint distribution of labor and capital income, to capture the role played by income composition heterogeneity in within-region inequality. The income-elasticity of damages has a stronger impact than their persistence on future inequality, consumption, and optimal policy. When taking the non-proportionality of damages into account, inequality increases with labor productivity and capital damages, but labor impacts tend to have a stronger effect. In the most affected regions, these factor-specific damages can lead to dramatic consumption losses at the bottom of the distribution, resulting in a large increase in the social cost of carbon.
+
+
+## Work in progress 
+
+### Climate policy with multi-level revenue recycling
+### _with Aurélie Méjean & Stéphane Zuber_
+
+

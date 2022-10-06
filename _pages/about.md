@@ -12,8 +12,10 @@ I am a PhD candidate at the [Paris School of Economics](https://www.parisschoolo
 
 My main research field is Environmental and Climate Change Economics.
 
+**I am on the Job Market and will be at the 2022-2023 AEA and ASSA meetings.**
 
 Contact : marie.youngbrun [at] psemail.eu
 
-
+<!---
 ![](images/image_stripes.png)
+--->
