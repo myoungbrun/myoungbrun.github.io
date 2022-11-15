@@ -8,7 +8,7 @@ author_profile: true
 
 ## Job Market paper
 
-[Political support for carbon taxation: a voting model with vertical and horizontal inequality](https://myoungbrun.github.io/files/JMP_YoungBrun.pdf)
+[Public acceptability of carbon taxation: a model of political support with income and urban-rural inequality](https://myoungbrun.github.io/files/JMP_YoungBrun.pdf)
 
 _Abstract_ :
 Carbon taxation is a flagship climate policy aimed at reducing greenhouse gas emissions efficiently. Yet, it fails to garner sufficient political support in many countries. This paper investigates the role of urban-rural inequalities in this lack of domestic support. I develop a model of majority voting over a carbon tax at a national level, with both income and urban-rural heterogeneity. Rural households are constrained to consume more necessary energy goods than urban households, which I capture with heterogeneous Stone-Geary utility. I characterize the conditions for the existence of a majority voting equilibrium and perform a calibration of the model using budget survey data for twenty European countries.
