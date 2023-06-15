@@ -20,12 +20,11 @@ I find that the majority voting tax may be at a higher rate than the optimal car
 ### Climate change damages on labor and capital, inequality, and the social cost of carbon
 #### _with Simon Feindt_ (Draft available upon request)
 
-_Abstract_ : Climate change is poised to generate economic damages through many channels, in particular through shocks to the factors of production. We use an integrated assessment model with sub-regional inequality and introduce direct impacts on capital and productive labor stocks, resulting in endogenously persistent damages. We model and calibrate the joint distribution of labor and capital income, to capture the role played by income composition heterogeneity in within-region inequality. The income-elasticity of damages has a stronger impact than their persistence on future inequality, consumption, and optimal policy. When taking the non-proportionality of damages into account, inequality increases with labor productivity and capital damages, but labor impacts tend to have a stronger effect. In the most affected regions, these factor-specific damages can lead to dramatic consumption losses at the bottom of the distribution, resulting in a large increase in the social cost of carbon.
+_Abstract_ : Climate change is poised to generate economic damages through many channels, in particular through shocks to the factors of production. We use an integrated assessment model with sub-regional inequality and introduce direct impacts on capital and productive labor stocks, resulting in endogenously persistent damages. We model and calibrate the joint distribution of labor and capital income, to capture the role played by income composition heterogeneity in within-region inequality. When taking the non-proportionality of damages into account, inequality increases with labor productivity and capital damages, but labor impacts tend to have a stronger effect. In the most affected regions, these factor-specific damages can lead to important consumption losses at the bottom of the distribution, resulting in a large increase in the social cost of carbon.
 
-
-## Work in progress 
-
-### Climate policy with multi-level revenue recycling
+### Different taxes or redistribution: How to shape a just global climate policy?
 ### _with Aurélie Méjean & Stéphane Zuber_
+
+_Abstract_ : This paper compares the effects of differentiated carbon taxes with those of a global harmonized tax associated with revenue recycling. Using a global Integrated Assessment Model representing national economies, we find that a uniform global carbon tax with lump-sum per capita recycling is the most welfare enhancing and inequality reducing policy. It can bring a welfare improvement equivalent to several percents of average global consumption until 2050. This scheme however implies large international transfers between countries. A more modest scheme, where 5\% of global carbon revenues are targeted to compensate loss and damage in poor countries particularly vulnerable to the impacts of climate change, can result in strong inequality reductions, and significant welfare increases for low income countries. Differentiated taxes with country-level redistribution can have positive effects, especially on inequality, but those mainly happen after 2050, when poorer countries have larger carbon tax revenues to redistribute.
 
 
