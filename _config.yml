@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marie Young-Brun"
   avatar           : "legoodportrait.PNG"
-  bio              : "PhD candidate"
-  location         : #"Paris"
-  employer         : "PSE/Paris 1/CIRED"
+  bio              : ""
+  location         : #""
+  employer         : "IWH/ Leipzig University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "marie.youngbrun@psemail.eu"
+  email            : "marie.young-brun@iwh-halle.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "myoungbrun"
+  twitter          : #"myoungbrun"
   vine             :
   weibo            :
   xing             :
