@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 
 ### Climate impacts on labor and capital: implications for growth, inequality, and the social cost of carbon
-#### _with Simon Feindt_ (submitted, draft available upon request)
+#### _with Simon Feindt_ (in revision)
 
 <details>
 <summary>Abstract</summary>
@@ -24,7 +24,7 @@ I find that the majority voting tax may be at a higher rate than the optimal car
 </details>
 
 ### Different taxes or redistribution: How to shape a just global climate policy?
-#### _with Aurélie Méjean, Stéphane Zuber, Francis Dennig, Frank Errickson & Simon Feindt_
+#### _with Aurélie Méjean, Stéphane Zuber, Francis Dennig, Frank Errickson & Simon Feindt_ (submitted)
 
 
 <details>
