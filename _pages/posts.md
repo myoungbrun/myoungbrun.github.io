@@ -1,22 +1,22 @@
 ---
 layout: archive
-title: "Tips and tricks"
+title: "Ressources"
 permalink: /posts/
 author_profile: true
 ---
 
-Some tips and tricks I've gathered along the way. 
+Some ressources and tricks I've gathered along the way. 
 
 ### Workflow and tools
 
 * How this website is made: forked from [Academic pages with github](https://academicpages.github.io/), with a guide [here](https://jayrobwilliams.com/posts/2020/06/academic-website/)
 * Easily making graphs that are compatible with LaTeX (graphs exportable as tikz): [mathcha.io](https://www.mathcha.io/)
 * A table generator for LaTex, Markdown and html: [Tables Generator](https://www.tablesgenerator.com/)
-* Extracting tables from pdf files: [tabula](https://tabula.technology/)
 * Visualizing tool for literature searches: [Connected Papers](https://www.connectedpapers.com/)
 
-<!--- Bibliography with Zotero and saving articles from the browser
-* Writing What You See Is What You Get (i.e. easier) LateX with LyX -->
+### Reproducibility 
+
+* Version control with git (for economists) by Luís Fonseca: [slides](https://luispfonseca.com/files/slides_git.pdf)
 
 ### R 
 
@@ -26,6 +26,7 @@ Some tips and tricks I've gathered along the way.
 ### Julia
 
 * Data Frames [performance tips](https://juliadatascience.io/df_performance) 
+* Creating and working with [environments](https://pkgdocs.julialang.org/v1/environments/)
 
 ### Advice posts
 
