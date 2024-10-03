@@ -31,3 +31,10 @@ I find that the majority voting tax may be at a higher rate than the optimal car
 <summary>Abstract</summary>
 This paper compares the effects of differentiated carbon taxes with those of a global harmonized tax associated with revenue recycling. Using a global Integrated Assessment Model representing national economies, we find that a uniform global carbon tax with lump-sum per capita recycling is the most welfare enhancing and inequality reducing policy. It can bring a welfare improvement equivalent to several percents of average global consumption until 2050. This scheme however implies large international transfers between countries. A more modest scheme, where 5\% of global carbon revenues are targeted to compensate loss and damage in poor countries particularly vulnerable to the impacts of climate change, can result in strong inequality reductions, and significant welfare increases for low income countries. Differentiated taxes with country-level redistribution can have positive effects, especially on inequality, but those mainly happen after 2050, when poorer countries have larger carbon tax revenues to redistribute.
 </details>
+
+## Publications
+
+### A Multi-Model Assessment of Inequality and Climate Change
+Nature Climate Change (2024) _with Emmerling J., Andreoni P., Charalampidis I., Dasgupta S., Dennig F. , Feindt S., Fragkiadakis D., Fragkos P., Fujimori S., Gilli M., Grottera C., Guivarch C., Kornek U., Kriegler E., Malerba D., Marangoni G., Méjean A., Nijsse F., Piontek F., Simsek Y., Soergel B., Taconet N., Vandyck T., Zhao S., Zheng Y. and Tavoni M._
+
+
