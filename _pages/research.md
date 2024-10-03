@@ -35,6 +35,6 @@ This paper compares the effects of differentiated carbon taxes with those of a g
 ## Publications
 
 ### A Multi-Model Assessment of Inequality and Climate Change
-Nature Climate Change (2024) _with Emmerling J., Andreoni P., Charalampidis I., Dasgupta S., Dennig F. , Feindt S., Fragkiadakis D., Fragkos P., Fujimori S., Gilli M., Grottera C., Guivarch C., Kornek U., Kriegler E., Malerba D., Marangoni G., Méjean A., Nijsse F., Piontek F., Simsek Y., Soergel B., Taconet N., Vandyck T., Zhao S., Zheng Y. and Tavoni M._
+#### Nature Climate Change (2024) _with Emmerling J., Andreoni P., Charalampidis I., Dasgupta S., Dennig F. , Feindt S., Fragkiadakis D., Fragkos P., Fujimori S., Gilli M., Grottera C., Guivarch C., Kornek U., Kriegler E., Malerba D., Marangoni G., Méjean A., Nijsse F., Piontek F., Simsek Y., Soergel B., Taconet N., Vandyck T., Zhao S., Zheng Y. and Tavoni M._
 
 
