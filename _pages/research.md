@@ -31,8 +31,8 @@ This paper compares the effects of differentiated carbon taxes with those of a g
 
 ## Publications
 
-Emmerling J., Andreoni P., Charalampidis I., Dasgupta S., Dennig F. , Feindt S., Fragkiadakis D., Fragkos P., Fujimori S., Gilli M., Grottera C., Guivarch C., Kornek U., Kriegler E., Malerba D., Marangoni G., Méjean A., Nijsse F., Piontek F., Simsek Y., Soergel B., Taconet N., Vandyck T., **Young-Brun M.**, Zhao S., Zheng Y. and Tavoni M. "[A Multi-Model Assessment of Inequality and Climate Change](https://www.nature.com/articles/s41558-024-02151-7)", _Nature Climate Change_ (2024) 
+Emmerling J., Andreoni P., Charalampidis I., Dasgupta S., Dennig F. , Feindt S., Fragkiadakis D., Fragkos P., Fujimori S., Gilli M., Grottera C., Guivarch C., Kornek U., Kriegler E., Malerba D., Marangoni G., Méjean A., Nijsse F., Piontek F., Simsek Y., Soergel B., Taconet N., Vandyck T., **Young-Brun M.**, Zhao S., Zheng Y. and Tavoni M. "[A Multi-Model Assessment of Inequality and Climate Change](https://www.nature.com/articles/s41558-024-02151-7)", _Nature Climate Change_ (2024) &nbsp; &nbsp; &nbsp; [Research Brief](https://www.nature.com/articles/s41558-024-02152-6)
 
-[Research Brief](https://www.nature.com/articles/s41558-024-02152-6)
+
 
 
