@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 
 **Climate impacts on labor and capital: implications for growth, inequality, and the social cost of carbon** <br> 
-_with Simon Feindt_ (in revision) <br> 
+_with Simon Feindt_ (submitted) <br> 
 <details>
 <summary>Abstract</summary>
 Climate change is poised to generate economic damages through many channels, in particular through shocks to the factors of production. We use an integrated assessment model with sub-regional inequality and introduce direct impacts on capital and productive labor stocks, resulting in endogenously persistent damages. We model and calibrate the joint distribution of labor and capital income, to capture the role played by income composition heterogeneity in within-region inequality. When taking the non-proportionality of damages into account, inequality increases with labor productivity and capital damages, but labor impacts tend to have a stronger effect. In the most affected regions, these factor-specific damages can lead to important consumption losses at the bottom of the distribution, resulting in a large increase in the social cost of carbon.</details>
